@@ -140,7 +140,7 @@ body {
     color: #942421; }
 
 #items {
-  padding: 2rem; }
+  padding: 2rem;padding: 3rem;}
   #items .wrapper .item-1 {
     background: url(../images/item-1.png) no-repeat;
     background-size: cover;
